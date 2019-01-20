@@ -1,0 +1,28 @@
+[{
+    "nome": "computador",
+    "descricao": "nome do computador",
+    "valor": ""
+  }, {
+    "nome": "deployments",
+    "descricao": "pasta deployments",
+    "valor": ""
+  }, {
+    "nome": "cacheloader",
+    "descricao": "pasta do cacheloader",
+    "valor": "cacheloader"
+  }, {
+    "nome": "config",
+    "descricao": "arquivo de config",
+    "valor": ""
+  },
+  {
+    "nome": "cachetool",
+    "descricao": "",
+    "valor": ""
+  },
+  {
+    "nome": "reset_deployments_nao_excluir",
+    "descricao": "",
+    "valor": ""
+  }
+]
